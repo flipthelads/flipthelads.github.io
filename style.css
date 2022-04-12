@@ -15,7 +15,7 @@ body{
 }
 ::selection{
   color: #fff;
-  background: #6563ff;
+  background: #e74c3c;
 }
 .wrapper{
   padding: 25px;
@@ -165,6 +165,6 @@ body{
     padding: 5px 10px;
     border: none;
     color: #fff;
-    background: #6563ff;
+    background: #e74c3c;
   }
 }
